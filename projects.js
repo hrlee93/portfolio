@@ -1762,37 +1762,37 @@ window.portfolioProjects = [
         "src": "assets/video-web/230909_브레드앤프레드.mp4",
         "title": "브레드앤프레드",
         "poster": "assets/work-previews/youtube-contents-06.webp",
-        "bytes": 74610233
+        "bytes": 77266312
       },
       {
         "src": "assets/video-web/230921_패치.mp4",
         "title": "패치",
         "poster": "assets/work-previews/youtube-contents-07.webp",
-        "bytes": 33329004
+        "bytes": 33835919
       },
       {
         "src": "assets/video-web/231008_팬블vs적면귀.mp4",
         "title": "팬블vs적면귀",
         "poster": "assets/work-previews/youtube-contents-08.webp",
-        "bytes": 74856649
+        "bytes": 78299947
       },
       {
         "src": "assets/video-web/240101_1228패치.mp4",
         "title": "1228패치",
         "poster": "assets/work-previews/youtube-contents-bdd9d8cb0438.webp",
-        "bytes": 33280930
+        "bytes": 41948206
       },
       {
         "src": "assets/video-web/240107_오염된장벽내부_공략.mp4",
         "title": "오염된장벽내부 공략",
         "poster": "assets/work-previews/youtube-contents-f6c09d15da0e.webp",
-        "bytes": 64987501
+        "bytes": 96369581
       },
       {
         "src": "assets/video-web/240301_모든것의증오.mp4",
         "title": "모든것의증오",
         "poster": "assets/work-previews/youtube-contents-19cace8e1d49.webp",
-        "bytes": 72905508
+        "bytes": 75620352
       }
     ]
   }
