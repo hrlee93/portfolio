@@ -164,7 +164,7 @@ window.portfolioProjects = [
       {
         "src": "assets/project/2_프로모션배너/240717_뉴트리코어_라운지프로모션22.jpg",
         "preview": "assets/work-previews/promotion-banners-10.webp",
-        "alt": "뉴트리코어 라운지프로모션22",
+        "alt": "뉴트리코어 라운지프로모션",
         "width": 900,
         "height": 1550,
         "animated": false
@@ -172,7 +172,7 @@ window.portfolioProjects = [
       {
         "src": "assets/project/2_프로모션배너/240822_저마데_사은품증정_01.jpg",
         "preview": "assets/work-previews/promotion-banners-11.webp",
-        "alt": "저마데 사은품증정 01",
+        "alt": "저마데 사은품증정",
         "width": 1200,
         "height": 1795,
         "animated": false
@@ -180,7 +180,7 @@ window.portfolioProjects = [
       {
         "src": "assets/project/2_프로모션배너/241008_바디닥터스_신상특가_난각막222.jpg",
         "preview": "assets/work-previews/promotion-banners-12.webp",
-        "alt": "바디닥터스 신상특가 난각막222",
+        "alt": "바디닥터스 신상특가 난각막",
         "width": 1200,
         "height": 3190,
         "animated": false
@@ -196,7 +196,7 @@ window.portfolioProjects = [
       {
         "src": "assets/project/2_프로모션배너/250422_뉴트리코어_키즈이벤트_롱키커증정_1.jpg",
         "preview": "assets/work-previews/promotion-banners-14.webp",
-        "alt": "뉴트리코어 키즈이벤트 롱키커증정 1",
+        "alt": "뉴트리코어 키즈이벤트 롱키커증정",
         "width": 1200,
         "height": 3790,
         "animated": false
@@ -212,7 +212,7 @@ window.portfolioProjects = [
       {
         "src": "assets/project/2_프로모션배너/250613_닥터린_종합몰_상시딜_썸네일_1000x1000_3.jpg",
         "preview": "assets/work-previews/promotion-banners-16.webp",
-        "alt": "닥터린 종합몰 상시딜 썸네일 3",
+        "alt": "닥터린 종합몰 상시딜 썸네일 2",
         "width": 1000,
         "height": 1000,
         "animated": false
@@ -220,7 +220,7 @@ window.portfolioProjects = [
       {
         "src": "assets/project/2_프로모션배너/250704_뉴트리코어_종합몰_상시딜_썸네일_1000x1000_2.jpg",
         "preview": "assets/work-previews/promotion-banners-17.webp",
-        "alt": "뉴트리코어 종합몰 상시딜 썸네일 2",
+        "alt": "뉴트리코어 종합몰 상시딜 썸네일",
         "width": 1000,
         "height": 1000,
         "animated": false
@@ -424,7 +424,7 @@ window.portfolioProjects = [
       {
         "src": "assets/project/4_소셜프로모션(반려동물)/230103_event.jpg",
         "preview": "assets/work-previews/social-pet-11.webp",
-        "alt": "event",
+        "alt": "자사몰 설날 이벤트",
         "width": 960,
         "height": 3900,
         "animated": false
@@ -432,7 +432,7 @@ window.portfolioProjects = [
       {
         "src": "assets/project/4_소셜프로모션(반려동물)/230125_event.jpg",
         "preview": "assets/work-previews/social-pet-12.webp",
-        "alt": "event",
+        "alt": "자사몰 정월대보름 이벤트",
         "width": 960,
         "height": 3800,
         "animated": false
@@ -901,7 +901,7 @@ window.portfolioProjects = [
       {
         "src": "assets/project/10_소셜롤링배너/1920x400_pc_고체솝그린.jpg",
         "preview": "assets/work-previews/rolling-banners-02.webp",
-        "alt": "pc 고체솝그린",
+        "alt": "고체솝그린",
         "width": 1920,
         "height": 400,
         "animated": false
@@ -933,7 +933,7 @@ window.portfolioProjects = [
       {
         "src": "assets/project/10_소셜롤링배너/기획전랜딩_PC_1920x400.jpg",
         "preview": "assets/work-previews/rolling-banners-06.webp",
-        "alt": "기획전랜딩 PC ",
+        "alt": "기획전랜딩",
         "width": 1920,
         "height": 400,
         "animated": false
@@ -1023,7 +1023,7 @@ window.portfolioProjects = [
       {
         "src": "assets/project/11_sns컨텐츠/240807_뉴트리코어_526x526_sns_1.jpg",
         "preview": "assets/work-previews/sns-contents-09.webp",
-        "alt": "뉴트리코어 sns 1",
+        "alt": "뉴트리코어 SNS",
         "width": 526,
         "height": 526,
         "animated": false
@@ -1031,7 +1031,7 @@ window.portfolioProjects = [
       {
         "src": "assets/project/11_sns컨텐츠/240812_뉴트리코어_1080x1080_SNS_코큐텐_2_2.jpg",
         "preview": "assets/work-previews/sns-contents-10.webp",
-        "alt": "뉴트리코어 SNS 코큐텐 2 2",
+        "alt": "뉴트리코어 SNS 코큐텐",
         "width": 1080,
         "height": 1080,
         "animated": false
@@ -1135,7 +1135,7 @@ window.portfolioProjects = [
       {
         "src": "assets/project/11_sns컨텐츠/250429_닥터린_메타_1080x1080_3.jpg",
         "preview": "assets/work-previews/sns-contents-23.webp",
-        "alt": "닥터린 메타 3",
+        "alt": "닥터린 알파CD 1",
         "width": 1080,
         "height": 1080,
         "animated": false
@@ -1143,7 +1143,7 @@ window.portfolioProjects = [
       {
         "src": "assets/project/11_sns컨텐츠/250507_닥터린_메타_1080x1080_1.jpg",
         "preview": "assets/work-previews/sns-contents-24.webp",
-        "alt": "닥터린 메타 1",
+        "alt": "닥터린 알파CD 2",
         "width": 1080,
         "height": 1080,
         "animated": false
@@ -1151,7 +1151,7 @@ window.portfolioProjects = [
       {
         "src": "assets/project/11_sns컨텐츠/250620_프로스랩_DA광고_10주년행사_메타_1080x1080_3.jpg",
         "preview": "assets/work-previews/sns-contents-25.webp",
-        "alt": "프로스랩 DA광고 10주년행사 메타 3",
+        "alt": "프로스랩 DA광고 10주년행사",
         "width": 1080,
         "height": 1080,
         "animated": false
@@ -1223,7 +1223,7 @@ window.portfolioProjects = [
       {
         "src": "assets/project/11_sns컨텐츠/20230111_설날이벤트_1 (2).jpg",
         "preview": "assets/work-previews/sns-contents-34.webp",
-        "alt": "설날이벤트 1 (2)",
+        "alt": "설날이벤트 이모지",
         "width": 1080,
         "height": 1080,
         "animated": false
@@ -1231,7 +1231,7 @@ window.portfolioProjects = [
       {
         "src": "assets/project/11_sns컨텐츠/20230111_설날이벤트_1.jpg",
         "preview": "assets/work-previews/sns-contents-35.webp",
-        "alt": "설날이벤트 1",
+        "alt": "설날이벤트 퀴즈",
         "width": 1080,
         "height": 1080,
         "animated": false
@@ -1629,7 +1629,7 @@ window.portfolioProjects = [
       {
         "src": "assets/project/15_외주디자인/대지갈비튀김집_2.jpg",
         "preview": "assets/work-previews/freelance-design-01.webp",
-        "alt": "돼지갈비튀김 메뉴 포스터 2",
+        "alt": "돼지갈비튀김 메뉴 포스터 1",
         "width": 4488,
         "height": 5906,
         "animated": false
@@ -1637,7 +1637,7 @@ window.portfolioProjects = [
       {
         "src": "assets/project/15_외주디자인/대지갈비튀김집_4.jpg",
         "preview": "assets/work-previews/freelance-design-02.webp",
-        "alt": "돼지갈비튀김 메뉴 포스터 4",
+        "alt": "돼지갈비튀김 메뉴 포스터 2",
         "width": 4488,
         "height": 5906,
         "animated": false
@@ -1663,7 +1663,7 @@ window.portfolioProjects = [
       {
         "src": "assets/project/16_유튜브영상/1228패치.jpg",
         "preview": "assets/work-previews/youtube-contents-bdd9d8cb0438.webp",
-        "alt": "1228패치",
+        "alt": "1228 패치",
         "width": 1920,
         "height": 1080,
         "animated": false
@@ -1671,7 +1671,7 @@ window.portfolioProjects = [
       {
         "src": "assets/project/16_유튜브영상/230723_경매장_1.jpg",
         "preview": "assets/work-previews/youtube-contents-01.webp",
-        "alt": "경매장 1",
+        "alt": "경매장",
         "width": 1280,
         "height": 720,
         "animated": false
@@ -1679,7 +1679,7 @@ window.portfolioProjects = [
       {
         "src": "assets/project/16_유튜브영상/230728_신화시계장소.jpg",
         "preview": "assets/work-previews/youtube-contents-02.webp",
-        "alt": "신화시계장소",
+        "alt": "신화시계 장소",
         "width": 1280,
         "height": 720,
         "animated": false
@@ -1687,7 +1687,7 @@ window.portfolioProjects = [
       {
         "src": "assets/project/16_유튜브영상/230802_판도라대리깡.jpg",
         "preview": "assets/work-previews/youtube-contents-03.webp",
-        "alt": "판도라대리깡",
+        "alt": "판도라 대리깡",
         "width": 1280,
         "height": 720,
         "animated": false
@@ -1695,7 +1695,7 @@ window.portfolioProjects = [
       {
         "src": "assets/project/16_유튜브영상/230804_레드더스트복사.jpg",
         "preview": "assets/work-previews/youtube-contents-04.webp",
-        "alt": "레드더스트복사",
+        "alt": "레드더스트 복사",
         "width": 1280,
         "height": 720,
         "animated": false
@@ -1719,7 +1719,7 @@ window.portfolioProjects = [
       {
         "src": "assets/project/16_유튜브영상/230925_패치.jpg",
         "preview": "assets/work-previews/youtube-contents-07.webp",
-        "alt": "패치",
+        "alt": "0921 패치",
         "width": 1280,
         "height": 720,
         "animated": false
@@ -1735,7 +1735,7 @@ window.portfolioProjects = [
       {
         "src": "assets/project/16_유튜브영상/231211_팬블세팅시즌2.jpg",
         "preview": "assets/work-previews/youtube-contents-09.webp",
-        "alt": "팬블세팅시즌2",
+        "alt": "팬블세팅 시즌2",
         "width": 1280,
         "height": 720,
         "animated": false
@@ -1743,7 +1743,7 @@ window.portfolioProjects = [
       {
         "src": "assets/project/16_유튜브영상/모든것의증오.jpg",
         "preview": "assets/work-previews/youtube-contents-19cace8e1d49.webp",
-        "alt": "모든것의증오",
+        "alt": "모든것의증오 공략",
         "width": 1920,
         "height": 1080,
         "animated": false
@@ -1766,7 +1766,7 @@ window.portfolioProjects = [
       },
       {
         "src": "assets/video-web/230921_패치.mp4",
-        "title": "패치",
+        "title": "0921 패치",
         "poster": "assets/work-previews/youtube-contents-07.webp",
         "bytes": 33835919
       },
@@ -1778,7 +1778,7 @@ window.portfolioProjects = [
       },
       {
         "src": "assets/video-web/240101_1228패치.mp4",
-        "title": "1228패치",
+        "title": "1228 패치",
         "poster": "assets/work-previews/youtube-contents-bdd9d8cb0438.webp",
         "bytes": 41948206
       },
@@ -1790,7 +1790,7 @@ window.portfolioProjects = [
       },
       {
         "src": "assets/video-web/240301_모든것의증오.mp4",
-        "title": "모든것의증오",
+        "title": "모든것의증오 공략",
         "poster": "assets/work-previews/youtube-contents-19cace8e1d49.webp",
         "bytes": 75620352
       }
